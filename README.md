@@ -90,3 +90,9 @@ This project is open source and released under the MIT License. See the `LICENSE
 ## Project status
 
 This library is intended for Arduino-compatible embedded projects and driver boards that use a 74HC595-based digital control scheme for multi-zone DC motor control.
+
+## Schematic & Architecture
+![Schematic Diagram](assets/schematic.png)
+
+## PCB 3D Render
+![PCB Render](assets/pcb-render.png)
