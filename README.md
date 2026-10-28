@@ -95,4 +95,7 @@ This library is intended for Arduino-compatible embedded projects and driver boa
 ![Schematic Diagram](assets/schematic.png)
 
 ## PCB 3D Render
-![PCB Render](assets/pcb-render.png)
+![PCB Render](assets/pcb_render.png)
+
+## Product Image
+![Product Render](assets/product_v1.png)
